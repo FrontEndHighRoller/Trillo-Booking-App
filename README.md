@@ -12,4 +12,3 @@ This project, written in Sass, offers a fully responsive design that adapts seam
 
 - **Enhanced Visuals:** Elevate the user experience with captivating animations that bring a touch of dynamism to the project.
 
-Feel free to explore the codebase and leverage the provided styles for your own projects. If you encounter any issues or have suggestions, don't hesitate to contribute or open an issue.
