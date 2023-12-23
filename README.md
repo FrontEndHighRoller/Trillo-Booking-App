@@ -1,6 +1,4 @@
-# Trillo-Booking-App
-
-## Project Overview
+# Project Overview
 
 This project, written in Sass, offers a fully responsive design that adapts seamlessly to various devices, providing an optimal viewing experience up to 320px width.
 
