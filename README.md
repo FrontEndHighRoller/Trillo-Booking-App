@@ -1,14 +1,57 @@
-# Project Overview
+# 🏨 Trillo — Hotel Booking UI
+> A fully responsive hotel booking interface built with advanced CSS techniques, inspired by a real-world application layout.
+![alt](screen-1.png)
+---
 
-This project, written in Sass, offers a fully responsive design that adapts seamlessly to various devices, providing an optimal viewing experience up to 320px width.
+## 👀 Why This Project Stands Out
 
-### Features:
+- Fully responsive down to **320px device width**
+- Advanced CSS architecture and styling
+- Complex layout using **Flexbox**
+- Demonstrates understanding of **scalable CSS design**
+- Production-style setup with `package.json` and minified CSS
 
-- **Responsive Design:** Utilizing the power of Flexbox, the layout dynamically adjusts to different screen sizes, ensuring a consistent and visually appealing presentation.
+---
 
-- **Cross-browser Compatibility:** While Flexbox is employed for modern browsers, it's important to note that older browsers may not fully support its features, leading to potential layout differences.
+## 🛠️ Tech Stack
 
-- **Prefix Handling:** The project gracefully addresses browser inconsistencies by utilizing the appropriate vendor prefixes, ensuring compatibility across different environments. Notably, the `mask-image` and `mask-size` properties are implemented with consideration for varied browser support.
+- **HTML5** – Semantic and structured markup  
+- **CSS3 (Advanced)** – Flexbox, variables, animations, media queries  
+- **Google Fonts** – Open Sans  
+- **SVG Icons** – SVG sprite technique  
+- **NPM** – Project configuration & dependency management  
 
-- **Enhanced Visuals:** Elevate the user experience with captivating animations that bring a touch of dynamism to the project.
+---
+
+## ✨ Features
+
+- Modern hotel booking dashboard UI  
+- Responsive layout across desktop, tablet, and mobile  
+- Sidebar navigation with active states  
+- Ratings, reviews, and gallery sections  
+- CSS variables for theme consistency  
+- Minified CSS for optimized performance  
+
+---
+
+## 🧠 What I Learned
+
+- Writing **scalable and maintainable CSS**
+- Using **CSS custom properties (variables)**
+- Building complex layouts with **Flexbox**
+- Implementing **responsive design principles**
+- Using **SVG sprites** for performance
+- Understanding **CSS minification** and production builds
+- Working with **NPM-based project setup**
+
+> 📌 This project was built by coding along with **Jonas Schmedtmann’s Advanced CSS & Sass course**, helping me strengthen my understanding of professional CSS workflows and real-world UI design patterns.
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/trillo-booking-ui.git
+2. Open index.html in your browser
 
